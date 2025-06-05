@@ -1,5 +1,13 @@
 # Elberth Sales - Estastístico / Análista de Dados
 
+# 👨‍💼 Sobre Mim
+
+Sou **Estatístico** com atuação em políticas públicas, especialmente na área ambiental e de saúde. Atualmente trabalho como **Técnico em Meio Ambiente e Sustentabilidade na SEMAS/PA**, onde aplico ciência de dados para fortalecer a regularização ambiental e subsidiar decisões estratégicas por meio de análises espaciais, relatórios técnicos e dashboards interativos.
+
+Tenho experiência consolidada em **Power BI, Python, PostgreSQL, QGIS e automação de processos (ETL)**. Possuo formação em Estatística pela UFPA e atualmente curso especialização em Ciência de Dados, com foco em Machine Learning e Engenharia de Dados.
+
+Sou engajado em iniciativas técnicas e sociais, como capacitação de equipes, avaliação educacional institucional (CPA/UFPA) e ações de bem-estar animal no ambiente universitário.
+
 ## 🛠️ Ferramentas e Tecnologias Utilizadas
 
 ### 📌 Linguagens
