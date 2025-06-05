@@ -99,9 +99,33 @@ Ferramenta para organizar e registrar atendimentos realizados em campo.
 
 Fora do trabalho, sou apaixonado por jogar vôlei. Aproveitei esse interesse para aplicar minhas habilidades em análise de dados e desenvolvi um sistema de **montagem de times equilibrados**, com base em algoritmos que consideram notas de desempenho dos jogadores.
 
-A ferramenta compara diferentes métodos de agrupamento e gera visualizações que facilitam a escolha do melhor algoritmo.
+**Descrição:**  
+Sistema inteligente para criação de times equilibrados de vôlei com base em habilidades técnicas dos jogadores, desenvolvido para otimizar a distribuição de atletas em treinos e competições.
 
-![Sistema de Montagem de Times de Vôlei](volei_hobbie.png)
+![Sistema de Formação de Times de Vôlei](volei_hobbie.png)
+
+### 🛠️ Principais Funcionalidades:
+
+- ✅ Importação automática de dados de jogadores (planilha Excel)  
+- 🔢 5 algoritmos diferentes para formação de times  
+- 📊 Cálculo automático de notas ponderadas por fundamento  
+- 📈 Visualização gráfica do equilíbrio entre times  
+- 💾 Exportação dos times gerados (formato JSON)  
+- 🧩 Interface simples para ajustes manuais  
+
+### 💻 Tecnologias Utilizadas:
+
+- Python (`pandas`, `numpy`)  
+- Tkinter (interface gráfica)  
+- Matplotlib (visualização)  
+- Scipy (otimização)
+
+### 🌟 Diferenciais:
+
+- Combina análise estatística com conhecimento esportivo  
+- Flexível para diferentes estratégias de formação  
+- Gera relatórios comparativos entre métodos
+
 
 
   
