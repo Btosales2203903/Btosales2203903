@@ -1,55 +1,60 @@
 # Elberth Sales - Estastístico / Análista de Dados
 
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Portfólio Profissional - [Seu Nome]</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      background-color: #f5f5f5;
-      color: #333;
-    }
-    header {
-      background-color: #004d40;
-      color: white;
-      padding: 2rem;
-      text-align: center;
-    }
-    main {
-      padding: 2rem;
-      max-width: 1000px;
-      margin: auto;
-      background-color: white;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    }
-    section {
-      margin-bottom: 2rem;
-    }
-    h2 {
-      color: #00695c;
-      border-bottom: 1px solid #ccc;
-      padding-bottom: 0.5rem;
-    }
-    .project {
-      margin-bottom: 1.5rem;
-    }
-    .project-title {
-      font-size: 1.2rem;
-      font-weight: bold;
-    }
-    .project-desc {
-      margin: 0.5rem 0 0 0;
-    }
-    footer {
-      text-align: center;
-      padding: 1rem;
-      background-color: #004d40;
-      color: white;
-    }
+## 🛠️ Ferramentas e Tecnologias Utilizadas
+
+### 📌 Linguagens
+- **Python**
+- **SQL (PostgreSQL)**
+- **HTML/CSS** (para páginas simples e portfólio pessoal)
+
+---
+
+### 🐍 Bibliotecas Python
+
+#### 📊 Análise de Dados
+- `pandas` – manipulação e análise de dados
+- `numpy` – operações numéricas e vetoriais
+- `joblib` – paralelização e otimização de performance em loops pesados
+
+#### 📦 Automação e Sistema de Arquivos
+- `os` – automação de diretórios e arquivos
+- `json` – leitura e escrita de dados estruturados
+
+#### 🌍 Geoespacial
+- `geopandas` – análise de dados espaciais com suporte a Shapefiles e GeoJSON
+- `shapely` – construção e manipulação de geometrias (pontos, polígonos etc.)
+- `h3` – indexação espacial hexagonal (ideal para análises com grids)
+- `folium` – visualização interativa de mapas (usando Leaflet.js)
+- `matplotlib.pyplot` – criação de mapas e gráficos estáticos
+
+---
+
+### 💾 Banco de Dados
+- **PostgreSQL** (com extensão **PostGIS** para dados espaciais)
+- `psycopg2` – conexão direta com bancos PostgreSQL
+- `sqlalchemy` – abstração para escrita de queries
+
+---
+
+### 📈 Visualização e BI
+- **Power BI** – dashboards interativos e relatórios ambientais
+
+---
+
+### 🗃️ Documentos e Relatórios
+- `python-docx` – geração automatizada de documentos Word
+- `openpyxl` – manipulação de planilhas Excel
+
+---
+
+### 🛠️ Ferramentas de Desenvolvimento
+- **Jupyter Notebook** – desenvolvimento de scripts e análises
+- **Anaconda** – gerenciamento de pacotes e ambientes
+- **Git & GitHub** – controle de versão e portfólio
+- **VS Code** – edição de código
+- **WPS Office** – documentos e planilhas
+- **QGIS** – apoio geoespacial na visualização e edição
+
   </style>
 </head>
 <body>
