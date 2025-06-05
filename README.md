@@ -55,4 +55,45 @@
 - **WPS Office** – documentos e planilhas
 - **QGIS** – apoio geoespacial na visualização e edição
 
+- ## 📌 Produtos Desenvolvidos
+
+Resultados e soluções criadas com foco em **análises ambientais, visualização de dados e automação de processos**, especialmente no contexto da **regularização ambiental no Pará**.
+
+---
+
+### 🌿 Dashboard: Áreas Especiais (Terras Indígenas e Unidades de Conservação)
+Visualiza o volume e a área de sobreposição entre imóveis do CAR e áreas protegidas.
+![Dashboard Áreas Especiais](dashs01.png)
+
+---
+
+### 🌱 Dashboard: Mutirões e Alcance Territorial
+Monitora a cobertura dos mutirões de regularização ambiental no estado.
+![Dashboard Mutirões](dash02.png)
+
+---
+
+### 🗂️ Dashboard: Resumo de Dados SICAR
+Consolida os principais indicadores do sistema CAR, com filtros por status e fases.
+![Resumo SICAR](https://github.com/Btosales2203903/Btosales2203903/blob/main/dash03.png)
+
+---
+
+### 🗺️ Mapa: Região do Araguaia
+Mapa temático georreferenciado com destaque para a região do Araguaia.
+![Mapa Araguaia](mapa01.png)
+
+---
+
+### 👥 Mapa: Distribuição de CAR por Gênero no Pará
+Apresenta o perfil de gênero dos responsáveis por imóveis rurais cadastrados no CAR.
+![Mapa Gênero CAR](GENERO_01_GERAL_semCNPJ.png)
+
+---
+
+### 📋 Sistema: Atendimento para Mutirões de Regularização Ambiental
+Ferramenta para organizar e registrar atendimentos realizados em campo.
+![Atendimento Mutirões](atendimento01.png)
+
+
   
