@@ -92,8 +92,52 @@ Apresenta o perfil de gênero dos responsáveis por imóveis rurais cadastrados 
 ---
 
 ### 📋 Sistema: Atendimento para Mutirões de Regularização Ambiental
-Ferramenta para organizar e registrar atendimentos realizados em campo.
+🌱 Sistema de Atendimento para Regularização Ambiental - SEMAS/PA
+Descrição:
+Sistema especializado para agilizar o atendimento técnico do Programa Regulariza Pará, facilitando o registro, análise e gestão de imóveis rurais no Cadastro Ambiental Rural (CAR).
+
+Sistema de Atendimento de Imóveis
 ![Atendimento Mutirões](atendimento01.png)
+
+🛠️ Principais Funcionalidades:
+✅ Importação automática da base de imóveis (Excel)
+
+🔍 Busca inteligente por CPF/CNPJ do proprietário
+
+📝 Formulário dinâmico de atendimento com campos:
+
+Documentação (CPF, RG, CAF/DAP)
+
+Situação do imóvel (sobreposições, APP, RL)
+
+Observações técnicas
+
+📅 Registro automático de data/hora do atendimento
+
+📤 Exportação de relatórios consolidados (Excel)
+
+🔄 Gestão de registros (edição/exclusão de atendimentos)
+
+💻 Tecnologias Utilizadas:
+Python (pandas para dados, tkinter para interface)
+
+Validações automáticas (CPF, datas)
+
+Relatórios personalizáveis com filtros
+
+🌟 Diferenciais:
+Otimiza tempo de atendimento em campo
+
+Padroniza informações para análise técnica
+
+Integrável com sistemas de georreferenciamento
+
+Foco na realidade do agricultor familiar paraense
+
+"Ferramenta essencial para a regularização ambiental no Pará"
+👉 Desenvolvido pela SEMAS/PA em parceria com a equipe do Regulariza Pará.
+
+*(Sistema em constante evolução - versão 1.0 - maio/2025)*
 
 ## 🏐 Hobby: Vôlei + Análise de Dados
 
