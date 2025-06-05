@@ -1,4 +1,4 @@
-# Elberth Sales - Estastístico / Análista de Dados
+# Elberth Sales - Estatístico / Analista de Dados
 
 # 👨‍💼 Sobre Mim
 
@@ -215,6 +215,9 @@ Sistema inteligente para criação de times equilibrados de vôlei com base em h
 - Flexível para diferentes estratégias de formação  
 - Gera relatórios comparativos entre métodos
 
+---
+📫 **Contato:** elberthdata@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/elberthsales) • [GitHub](https://github.com/Btosales2203903)
 
 
   
