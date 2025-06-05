@@ -61,37 +61,84 @@ Resultados e soluções criadas com foco em **análises ambientais, visualizaç�
 
 ---
 
-### 🌿 Dashboard: Áreas Especiais (Terras Indígenas e Unidades de Conservação)
-Visualiza o volume e a área de sobreposição entre imóveis do CAR e áreas protegidas.
+## 🗺️ Dashboard de Áreas Especiais - Terras Indígenas e Unidades de Conservação
+
+**Descrição:**  
+Ferramenta visual interativa desenvolvida para apoiar a gestão ambiental por meio da análise espacial do Cadastro Ambiental Rural (CAR) sobreposto a Terras Indígenas e Unidades de Conservação no estado do Pará.
+
+### 🎯 Utilidade:
+
+- Identifica áreas com sobreposição entre imóveis cadastrados e territórios protegidos.  
+- Auxilia na priorização de análises técnicas e na definição de estratégias de regularização fundiária e ambiental.  
+- Apoia órgãos gestores e tomadores de decisão na formulação de políticas públicas de proteção territorial.  
+- Gera relatórios por município, status do CAR e categoria fundiária sobreposta.  
+
 ![Dashboard Áreas Especiais](dashs01.png)
+> 📊 Desenvolvido com dados do SICAR e bases geográficas oficiais, integrando análise estatística e espacial.
 
 ---
 
 ### 🌱 Dashboard: Mutirões e Alcance Territorial
-Monitora a cobertura dos mutirões de regularização ambiental no estado.
-![Dashboard Mutirões](dash02.png)
 
+**Descrição:**  
+Painel interativo que monitora a execução dos mutirões de regularização ambiental promovidos pela SEMAS/PA no âmbito do Programa Regulariza Pará, com foco na análise territorial e cobertura das ações.
+
+### 🎯 Utilidade:
+
+- Exibe a abrangência geográfica dos mutirões realizados por município e região.  
+- Permite avaliar o volume de atendimentos realizados em campo e sua distribuição espacial.  
+- Apoia o planejamento estratégico de futuras ações de regularização, priorizando áreas com maior demanda ou vulnerabilidade.  
+- Fornece evidências para prestação de contas e elaboração de relatórios institucionais.  
+
+![Dashboard Mutirões](dash02.png)
+> 📍 Baseado em dados do SICAR e registros internos da SEMAS/PA, integrando mapas, filtros e estatísticas em tempo real.
 ---
 
 ### 🗂️ Dashboard: Resumo de Dados SICAR
-Consolida os principais indicadores do sistema CAR, com filtros por status e fases.
-![Resumo SICAR](https://github.com/Btosales2203903/Btosales2203903/blob/main/dash03.png)
 
+**Descrição:**  
+Painel sintético que consolida informações estratégicas do Sistema Nacional de Cadastro Ambiental Rural (SICAR), facilitando a compreensão do cenário ambiental no Pará.
+
+### 📊 Utilidade:
+
+- Exibe indicadores agregados sobre a situação dos imóveis rurais cadastrados no SICAR.  
+- Permite o acompanhamento de status dos CARs (pendentes, em análise, analisados, cancelados etc.).  
+- Auxilia gestores na identificação de gargalos e na definição de prioridades para análise e validação.  
+- Gera insumos para relatórios institucionais e planejamento de políticas públicas de regularização ambiental.
+
+
+![Resumo SICAR](https://github.com/Btosales2203903/Btosales2203903/blob/main/dash03.png)
+> 🔍 Integra grandes volumes de dados espaciais e tabulares em um painel visual e de fácil interpretação.
+> 
 ---
 
 ### 🗺️ Mapa: Região do Araguaia
+
 Mapa temático georreferenciado com destaque para a região do Araguaia.
+
 ![Mapa Araguaia](mapa01.png)
 
 ---
 
 ### 👥 Mapa: Distribuição de CAR por Gênero no Pará
-Apresenta o perfil de gênero dos responsáveis por imóveis rurais cadastrados no CAR.
+
+### 👥 Mapa: Distribuição de CAR por Gênero no Pará
+
+**Descrição:**  
+Representação espacial da titularidade dos Cadastros Ambientais Rurais (CAR) no estado do Pará, segmentada por gênero.
+
+### 🌍 Utilidade:
+
+- Identifica a distribuição territorial dos imóveis cadastrados no CAR por gênero do responsável legal.  
+- Contribui para o monitoramento da participação de mulheres na regularização ambiental.  
+- Fornece dados para políticas públicas de inclusão e equidade no campo.  
+- Auxilia na avaliação de impactos sociais da política ambiental no estado.
+
 ![Mapa Gênero CAR](GENERO_01_GERAL_semCNPJ.png)
+> 💡 O mapa é uma ferramenta de diagnóstico socioambiental que revela padrões importantes sobre o perfil dos beneficiários do programa Regulariza Pará.
 
 ---
 
-### 📋 Sistema: Atendimento para Mutirões de Regularização Ambiental
 ## 🌱 Sistema de Atendimento para Regularização Ambiental - SEMAS/PA
 
 **Descrição:**  
