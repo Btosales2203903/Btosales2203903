@@ -13,7 +13,6 @@ Sou engajado em iniciativas técnicas e sociais, como capacitação de equipes, 
 ### 📌 Linguagens
 - **Python**
 - **SQL (PostgreSQL)**
-- **HTML/CSS** (para páginas simples e portfólio pessoal)
 
 ---
 
