@@ -1,50 +1,110 @@
 # Elberth Sales
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfólio Profissional - [Seu Nome]</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #f5f5f5;
+      color: #333;
+    }
+    header {
+      background-color: #004d40;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    main {
+      padding: 2rem;
+      max-width: 1000px;
+      margin: auto;
+      background-color: white;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    section {
+      margin-bottom: 2rem;
+    }
+    h2 {
+      color: #00695c;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 0.5rem;
+    }
+    .project {
+      margin-bottom: 1.5rem;
+    }
+    .project-title {
+      font-size: 1.2rem;
+      font-weight: bold;
+    }
+    .project-desc {
+      margin: 0.5rem 0 0 0;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background-color: #004d40;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Portfólio Profissional</h1>
+    <p>[Seu Nome] | Estatístico | SEMAS/PA</p>
+  </header>
+  <main>
+    <section>
+      <h2>Sobre Mim</h2>
+      <p>Sou estatístico na SEMAS/PA, atuando com análise de dados, automação de relatórios técnicos, visualização de informações ambientais e geração de dashboards voltados à regularização ambiental, especialmente no Cadastro Ambiental Rural (CAR).</p>
+    </section>
 
-Currently, two official plugins are available:
+    <section>
+      <h2>Projetos Desenvolvidos</h2>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+      <div class="project">
+        <div class="project-title">1. Relatórios Automatizados em Word com Python</div>
+        <div class="project-desc">Geração de relatórios técnicos com cabeçalho institucional, tabelas formatadas e gráficos, a partir de dados tratados em Excel e SQL. Uso da biblioteca <code>python-docx</code>.</div>
+      </div>
 
-## Expanding the ESLint configuration
+      <div class="project">
+        <div class="project-title">2. Dashboards Interativos no Power BI – Cadastro Ambiental Rural</div>
+        <div class="project-desc">Criação de dashboards para acompanhamento de status do CAR, sobreposições com Terras Indígenas, evolução mensal e análise de prioridade via gráfico de Pareto.</div>
+      </div>
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+      <div class="project">
+        <div class="project-title">3. Geração de Mapas com GeoPandas e Matplotlib</div>
+        <div class="project-desc">Desenvolvimento de mapas com sobreposição de imóveis rurais e áreas protegidas, com logos institucionais, legendas e informações cartográficas.</div>
+      </div>
 
-- Configure the top-level `parserOptions` property like this:
+      <div class="project">
+        <div class="project-title">4. Emissão Automatizada de Certificados</div>
+        <div class="project-desc">Automação de certificados em lote a partir de um modelo Word, usando dados de participantes de capacitações.</div>
+      </div>
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+      <div class="project">
+        <div class="project-title">5. Análise e ETL de Dados Ambientais</div>
+        <div class="project-desc">Extração, tratamento e análise de dados do banco PostgreSQL com Python (pandas, SQLAlchemy), gerando tabelas e gráficos mensais para relatórios da SEMAS.</div>
+      </div>
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
+      <div class="project">
+        <div class="project-title">6. Organização de Torneios com Python</div>
+        <div class="project-desc">Sistema simples para sorteio de quartetos equilibrados, controle de resultados e cálculo de desempenho individual em jogos.</div>
+      </div>
 
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
+    </section>
 
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+    <section>
+      <h2>Contato</h2>
+      <p>Email: [seu-email] | GitHub: <a href="https://github.com/seu-usuario" target="_blank">github.com/seu-usuario</a></p>
+    </section>
+  </main>
+  <footer>
+    Desenvolvido por [Seu Nome] – Última atualização: Maio/2025
+  </footer>
+</body>
+</html>
