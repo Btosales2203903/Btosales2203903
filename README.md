@@ -95,5 +95,13 @@ Apresenta o perfil de gênero dos responsáveis por imóveis rurais cadastrados 
 Ferramenta para organizar e registrar atendimentos realizados em campo.
 ![Atendimento Mutirões](atendimento01.png)
 
+## 🏐 Hobby: Vôlei + Análise de Dados
+
+Fora do trabalho, sou apaixonado por jogar vôlei. Aproveitei esse interesse para aplicar minhas habilidades em análise de dados e desenvolvi um sistema de **montagem de times equilibrados**, com base em algoritmos que consideram notas de desempenho dos jogadores.
+
+A ferramenta compara diferentes métodos de agrupamento e gera visualizações que facilitam a escolha do melhor algoritmo.
+
+![Sistema de Montagem de Times de Vôlei](volei_hobbie.png)
+
 
   
