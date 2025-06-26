@@ -1,6 +1,6 @@
 # Elberth Sales - Estatístico / Analista de Dados
 
-# 👨‍💼 Sobre Mim
+#  Sobre Mim
 
 Sou **Estatístico** com atuação em políticas públicas, especialmente na área ambiental e de saúde. Atualmente trabalho como **Técnico em Meio Ambiente e Sustentabilidade na SEMAS/PA**, onde aplico ciência de dados para fortalecer a regularização ambiental e subsidiar decisões estratégicas por meio de análises espaciais, relatórios técnicos e dashboards interativos.
 
